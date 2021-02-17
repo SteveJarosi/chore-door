@@ -27,7 +27,7 @@ doorImage3.onclick = () => {
     }
 };
 startButton.onclick = () => {
-    if (currentlyPlaying === false)  startRound()
+    if (currentlyPlaying === false) startRound()
 }
 const startRound = () => {
     doorImage1.src = closedDoorPath;

@@ -13,9 +13,11 @@ body {
     margin-bottom: 21px;
     text-align: center;
 }
+
 table {
     margin: 0 auto;
 }
+
 .instructions-title {
     display: inline;
     font-size: 18px;
@@ -52,6 +54,7 @@ table {
     cursor: pointer;
     padding: 10px;
 }
+
 .start-row {
     margin: auto;
     width: 120px;
